@@ -10,6 +10,8 @@
 
 ## Evidencias de implementación
 
+[video simulacion I2C](https://youtu.be/3he64MFGGu8)
+
 ## Preguntas
 
 1. ¿Por qué I²C se clasifica como half-duplex mientras que SPI es full-duplex? ¿Qué implicación práctica tiene esa diferencia para el control de una LCD?.
