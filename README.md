@@ -85,7 +85,21 @@ El módulo **PCF8574** suele tener una dirección base de 7 bits igual a 0 x 27.
 
 Con I²C → solo se requieren 2 pines: SCL (RC3) y SCL (RC4).
 
+
+**EXPLICACION DE LOS CODIGOS**
+
+
+
 ## Diagramas
+
+![alt text](image-4.png)
+
+Conexión PIC18F45K22 con PICkit 4
+
+![alt text](image-3.png)
+
+Diagrama de montaje 
+
 
 ## Evidencias de implementación
 
